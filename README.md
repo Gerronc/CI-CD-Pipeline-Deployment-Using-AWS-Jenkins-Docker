@@ -57,6 +57,6 @@ Docker Hub: https://hub.docker.com/repositories/gerronc
 <h2>Attacks from China coming in; Custom logs being output with geodata</h2>
 
 <p align="center">
-<img src="https://imgur.com/a/YawqY3g.jpeg" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<img src="https://i.imgur.com/v8yDlsK.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
 </p>
 
