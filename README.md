@@ -54,9 +54,9 @@ Docker Hub: https://hub.docker.com/repositories/gerronc
 
 💡 This project strengthened my interest in cloud engineering and is a step toward my goal of becoming a Cloud Professional
 
-<h2>Attacks from China coming in; Custom logs being output with geodata</h2>
+<h2>Active AWS EC2 instance hosting the application</h2>
 
 <p align="center">
-<img src="https://i.imgur.com/v8yDlsK.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+<img src="https://i.imgur.com/v8yDlsK.png" height="85%" width="85%" alt="Active AWS EC2 instance hosting the application"/>
 </p>
 
