@@ -54,3 +54,9 @@ Docker Hub: https://hub.docker.com/repositories/gerronc
 
 💡 This project strengthened my interest in cloud engineering and is a step toward my goal of becoming a Cloud Professional
 
+<h2>Attacks from China coming in; Custom logs being output with geodata</h2>
+
+<p align="center">
+<img src="https://imgur.com/a/YawqY3g" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+</p>
+
