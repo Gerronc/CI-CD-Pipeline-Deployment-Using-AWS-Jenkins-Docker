@@ -55,9 +55,6 @@ Docker Hub: https://hub.docker.com/repositories/gerronc
 💡 This project strengthened my interest in cloud engineering and is a step toward my goal of becoming a Cloud Professional
 
 
-[GitHub Repository](https://github.com/Gerronc/Git)
-
-
 <h2>Active AWS EC2 instance hosting the application</h2>
 
 <p align="center">
@@ -81,8 +78,6 @@ Docker Hub: https://hub.docker.com/repositories/gerronc
 <p align="center">
 <img src="https://i.imgur.com/0XvOPy3.png" height="85%" width="85%" alt="Docker image repository used for deployment"/>
 </p>
-
-[Docker Repository](https://hub.docker.com/repositories/gerronc)
 
 <h2>Live containerized web application deployed on AWS</h2>
 
