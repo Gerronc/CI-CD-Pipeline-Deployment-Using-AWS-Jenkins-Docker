@@ -69,7 +69,7 @@ Docker Hub: https://hub.docker.com/repositories/gerronc
 <h2>Successful Jenkins pipeline execution with automated stages</h2>
 
 <p align="center">
-<img src="blob:https://imgur.com/2938ae42-e2ed-463c-b447-7852475a77b9" height="85%" width="85%" alt="ASuccessful Jenkins pipeline execution with automated stages"/>
+<img src="https://i.imgur.com/ihInJZ7.png" height="85%" width="85%" alt="ASuccessful Jenkins pipeline execution with automated stages"/>
 </p>
 
 <h2>Active AWS EC2 instance hosting the application</h2>
