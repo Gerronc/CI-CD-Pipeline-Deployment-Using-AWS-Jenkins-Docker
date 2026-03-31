@@ -60,3 +60,33 @@ Docker Hub: https://hub.docker.com/repositories/gerronc
 <img src="https://i.imgur.com/v8yDlsK.png" height="85%" width="85%" alt="Active AWS EC2 instance hosting the application"/>
 </p>
 
+<h2>Webhook configuration triggering Jenkins builds automatically</h2>
+
+<p align="center">
+<img src="https://i.imgur.com/kNYLK2h.png" height="85%" width="85%" alt="Webhook configuration triggering Jenkins builds automatically"/>
+</p>
+
+<h2>Successful Jenkins pipeline execution with automated stages</h2>
+
+<p align="center">
+<img src="blob:https://imgur.com/2938ae42-e2ed-463c-b447-7852475a77b9" height="85%" width="85%" alt="ASuccessful Jenkins pipeline execution with automated stages"/>
+</p>
+
+<h2>Active AWS EC2 instance hosting the application</h2>
+
+<p align="center">
+<img src="https://i.imgur.com/v8yDlsK.png" height="85%" width="85%" alt="Active AWS EC2 instance hosting the application"/>
+</p>
+
+<h2>Active AWS EC2 instance hosting the application</h2>
+
+<p align="center">
+<img src="https://i.imgur.com/v8yDlsK.png" height="85%" width="85%" alt="Active AWS EC2 instance hosting the application"/>
+</p>
+
+<h2>Active AWS EC2 instance hosting the application</h2>
+
+<p align="center">
+<img src="https://i.imgur.com/v8yDlsK.png" height="85%" width="85%" alt="Active AWS EC2 instance hosting the application"/>
+</p>
+
